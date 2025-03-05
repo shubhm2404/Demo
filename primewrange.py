@@ -1,4 +1,4 @@
-# Function to check if a number is prime
+# "Function to check if a number is prime"
 
 
 def is_prime(num):
@@ -11,7 +11,7 @@ def is_prime(num):
     return True
 
 
-# Function to find prime numbers in a given range and append them to a list
+# "Function to find prime numbers in a given range and append them to a list"
 
 def prime_numbers_in_range(start, end):
     prime_numbers = []  # List to store prime numbers
