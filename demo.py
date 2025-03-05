@@ -1,12 +1,8 @@
+#testing below code
 def myfunction():
-	a = 5
-	b = 6
-	c = 7
 
-	return d
+	a = 5
+	return a
+
 
 myfunction()
-
-
-test()
-
