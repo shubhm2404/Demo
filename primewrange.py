@@ -23,6 +23,7 @@ def is_prime(num):
 
 
 def prime_numbers_in_range(start, end):
+
     """
     Function to find prime numbers in a given range and append them to a list.
 
